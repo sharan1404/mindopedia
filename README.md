@@ -1,3 +1,3 @@
-# Video Streaming Website
+# Entertainment recommendation system
 
-Developed the front-end of a streaming website where users and browse and save movies/shows. Used Firebase as a database and deployment platform, with React and Tailwind to design the user interface.
+Full-stack movie recommendation application with UI developed in React.js and Tailwind CSS. Leveraged Firebase for user authentication and encrypted data storage. Integrating Algolia and Tensorflow.js for AI-powered recommendation for intelligent, personalized user insights.
